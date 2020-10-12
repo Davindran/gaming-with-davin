@@ -2,7 +2,7 @@
 HTML Website for a gaming blog I had in mind.
 
 ## Instructions:
-To view the website, download code as zip, extract and open index.html in your browser of choice
+To view the website, download code as zip, extract and open index.html in your browser of choice.
 
 ## Screenshots:
 
